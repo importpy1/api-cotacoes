@@ -61,7 +61,3 @@ python cotacoes.py
 ### ✏️ Licença
 
 Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
-
-##
-# api-de-cotacoes
-
